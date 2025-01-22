@@ -125,7 +125,7 @@ topic = c(
   "Scientific Communication confounding",
   "Functions and Automation",
   "Webscraping",
-  #  "Spring Break",#  "",
+  #  "Spring Break",#  "2025-03-10",
   "Ethics",
   "Tidy Models",
   "Overfitting and Cross validation",
