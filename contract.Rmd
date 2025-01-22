@@ -125,7 +125,7 @@ topic = c(
   "Scientific Communication confounding",
   "Functions and Automation",
   "Webscraping",
-  #  "Spring Break",#  "2025-03-10",
+  "Spring Break",
   "Ethics",
   "Tidy Models",
   "Overfitting and Cross validation",
@@ -178,8 +178,8 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
 -   [ ] `r advdate(dayone, 8, topic)`
     -   Finish Lab 8 by `r startweek`: `r advdate(dayone, 8, assignment=startweek)`
 -   [ ] `r advdate(dayone, 9, topic)`
-    -   Finish Lab 9 by `r startweek`: `r advdate(dayone, 9, assignment=startweek)`
-    -   Finish portfolio piece 4 by `r startweek`: `r advdate(dayone, 9, assignment=startweek)`
+    -   Finish Lab 9 by `r startweek`: `r advdate(dayone, 10, assignment=startweek)`
+    -   Finish portfolio piece 4 by `r startweek`: `r advdate(dayone, 10, assignment=startweek)`
 -   [ ] `r advdate(dayone, 10, topic)`
     -   Finish Lab 10 by `r startweek`: `r advdate(dayone, 10, assignment=startweek)`
 -   [ ] `r advdate(dayone, 11, topic)` `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",startweek,": ",advdate(dayone, 11, assignment=startweek))`

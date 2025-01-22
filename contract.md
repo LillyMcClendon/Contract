@@ -52,21 +52,21 @@ rearrange these labs and events to fit your needs.
   - Finish portfolio piece 3 by Friday: 02/28
 - [ ] Module 08, 03/03 - 03/07 : Webscraping
   - Finish Lab 8 by Friday: 03/07
-- [ ] Module 09, 03/10 - 03/14 : Ethics
-  - Finish Lab 9 by Friday: 03/14
-  - Finish portfolio piece 4 by Friday: 03/14
-- [ ] Module 10, 03/17 - 03/21 : Tidy Models
+- [ ] Module 09, 03/10 - 03/14 : Spring Break
+  - Finish Lab 9 by Friday: 03/21
+  - Finish portfolio piece 4 by Friday: 03/21
+- [ ] Module 10, 03/17 - 03/21 : Ethics
   - Finish Lab 10 by Friday: 03/21
-- [ ] Module 11, 03/24 - 03/28 : Overfitting and Cross validation -
-  Finish Lab 11 by Friday: 03/28
+- [ ] Module 11, 03/24 - 03/28 : Tidy Models - Finish Lab 11 by Friday:
+  03/28
   - Finish portfolio piece 5 by Friday: 03/28
-- [ ] Module 12, 03/31 - 04/04 : Quantifying uncertainty
+- [ ] Module 12, 03/31 - 04/04 : Overfitting and Cross validation
   - Finish portfolio piece 6 by Friday: 04/04
-- [ ] Module 13, 04/07 - 04/11 : Rshiny
+- [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
   - Finish portfolio pieces 7 and 8 by Friday: 04/11
-- [ ] Module 14, 04/14 - 04/18 : Machine Learning
+- [ ] Module 14, 04/14 - 04/18 : Rshiny
   - Finish portfolio piece 9 by Friday: 04/18
-- [ ] Module 15, 04/21 - 04/25 : Presentations
+- [ ] Module 15, 04/21 - 04/25 : Machine Learning
   - Finish portfolio piece 10 by Friday: 04/25
 - [ ] Portfolio completion and end-of-semester presentation
   - Due on Friday: 04/25
