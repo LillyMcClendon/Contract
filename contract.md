@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 22 2025
+January 30 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -38,9 +38,9 @@ rearrange these labs and events to fit your needs.
   - Propose your contract to Mason by Friday: 01/24
 - [ ] Module 03, 01/27 - 01/31 : Welcome to the Tidyverse
   - Finish Lab 3 by Friday: 01/31
-  - Finish portfolio piece 1 by Friday: 01/31
 - [ ] Module 04, 02/03 - 02/07 : Data types and Data Transformations
   - Finish Lab 4 by Friday: 02/07
+  - Finish portfolio piece 1 by Friday: 02/07
 - [ ] Module 05, 02/10 - 02/14 : Effective data visualization
   - Finish Lab 5 by Friday: 02/14
   - Finish portfolio piece 2 by Friday: 02/14
