@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 30 2025
+February 14 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -42,8 +42,8 @@ rearrange these labs and events to fit your needs.
   - Finish Lab 4 by Friday: 02/07
   - Finish portfolio piece 1 by Friday: 02/07
 - [ ] Module 05, 02/10 - 02/14 : Effective data visualization
-  - Finish Lab 5 by Friday: 02/14
-  - Finish portfolio piece 2 by Friday: 02/14
+  - Finish Lab 5 by Friday: 02/21
+  - Finish portfolio piece 2 by Friday: 02/21
 - [ ] Module 06, 02/17 - 02/21 : Scientific Communication confounding
   - Finish Lab 6 by Friday: 02/21
   - Schedule a check-in with Mason by Friday: 02/21
