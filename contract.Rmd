@@ -174,9 +174,9 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
     -   Schedule a check-in with Mason by `r startweek`: `r advdate(dayone, 6, assignment=startweek)`
 -   [ ] `r advdate(dayone, 7, topic)`
     -   Finish Lab 7 by `r startweek`: `r advdate(dayone, 7, assignment=startweek)`
-    -   Finish portfolio piece 3 by `r startweek`: `r advdate(dayone, 7, assignment=startweek)`
 -   [ ] `r advdate(dayone, 8, topic)`
     -   Finish Lab 8 by `r startweek`: `r advdate(dayone, 8, assignment=startweek)`
+    -   Finish portfolio piece 3 by `r startweek`: `r advdate(dayone, 8, assignment=startweek)`
 -   [ ] `r advdate(dayone, 9, topic)`
     -   Finish Lab 9 by `r startweek`: `r advdate(dayone, 10, assignment=startweek)`
     -   Finish portfolio piece 4 by `r startweek`: `r advdate(dayone, 10, assignment=startweek)`

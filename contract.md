@@ -1,6 +1,6 @@
 Grading Contract
 ================
-February 14 2025
+February 28 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -49,9 +49,9 @@ rearrange these labs and events to fit your needs.
   - Schedule a check-in with Mason by Friday: 02/21
 - [ ] Module 07, 02/24 - 02/28 : Functions and Automation
   - Finish Lab 7 by Friday: 02/28
-  - Finish portfolio piece 3 by Friday: 02/28
 - [ ] Module 08, 03/03 - 03/07 : Webscraping
   - Finish Lab 8 by Friday: 03/07
+  - Finish portfolio piece 3 by Friday: 03/07
 - [ ] Module 09, 03/10 - 03/14 : Spring Break
   - Finish Lab 9 by Friday: 03/21
   - Finish portfolio piece 4 by Friday: 03/21
