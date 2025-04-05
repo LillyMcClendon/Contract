@@ -1,6 +1,6 @@
 Grading Contract
 ================
-March 28 2025
+April 04 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -51,17 +51,17 @@ rearrange these labs and events to fit your needs.
   - Finish Lab 7 by Friday: 02/28
 - [ ] Module 08, 03/03 - 03/07 : Webscraping
   - Finish Lab 8 by Friday: 04/04
-  - Finish portfolio piece 3 by Friday: 04/04
+  - Finish portfolio piece 3 by Friday: 04/11
 - [ ] Module 09, 03/10 - 03/14 : Spring Break
-  - Finish Lab 9 by Friday: 04/04
-  - Finish portfolio piece 4 by Friday: 04/04
+  - Finish Lab 9 by Friday: 04/11
+  - Finish portfolio piece 4 by Friday: 04/11
 - [ ] Module 10, 03/17 - 03/21 : Ethics
-  - Finish Lab 10 by Friday: 04/04
-- [ ] Module 11, 03/24 - 03/28 : Tidy Models - Finish Lab 11 by Friday:
-  04/04
-  - Finish portfolio piece 5 by Friday: 04/04
-- [ ] Module 12, 03/31 - 04/04 : Overfitting and Cross validation
-  - Finish portfolio piece 6 by Friday: 04/04
+  - Finish Lab 10 by Friday: 04/11
+- [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty - Finish Lab 11
+  by Friday: 04/11
+  - Finish portfolio piece 5 by Friday: 04/11
+- [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
+  - Finish portfolio piece 6 by Friday: 04/11
 - [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
   - Finish portfolio pieces 7 and 8 by Friday: 04/11
 - [ ] Module 14, 04/14 - 04/18 : Rshiny
