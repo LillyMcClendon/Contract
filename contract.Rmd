@@ -176,21 +176,22 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
     -   Finish Lab 7 by `r startweek`: `r advdate(dayone, 7, assignment=startweek)`
 -   [ ] `r advdate(dayone, 8, topic)`
     -   Finish Lab 8 by `r startweek`: `r advdate(dayone, 12, assignment=startweek)`
-    -   Finish portfolio piece 3 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
+    -   Finish portfolio piece 3 by `r startweek`: `r advdate(dayone, 14, assignment=startweek)`
 -   [ ] `r advdate(dayone, 9, topic)`
     -   Finish Lab 9 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
-    -   Finish portfolio piece 4 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
+    -   Finish portfolio piece 4 by `r startweek`: `r advdate(dayone, 14, assignment=startweek)`
 -   [ ] `r advdate(dayone, 10, topic)`
     -   Finish Lab 10 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
--   [ ] `r advdate(dayone, 13, topic)` `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",startweek,": ",advdate(dayone, 13, assignment=startweek))`
-    -   Finish portfolio piece 5 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
+-   [ ] `r advdate(dayone, 13, topic)` 
+    - Finish Lab 11 by Friday: 04/18
+    -   Finish portfolio piece 5 by `r startweek`: `r advdate(dayone, 15, assignment=startweek)`
 -   [ ] `r advdate(dayone, 13, topic)` `r if(params$labs>=13) paste0(" - Finish Lab 12 by ",startweek,": ",advdate(dayone, 13, assignment=startweek))`
-    -   Finish portfolio piece 6 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
+    -   Finish portfolio piece 6 by `r startweek`: `r advdate(dayone, 15, assignment=startweek)`
 -   [ ] `r advdate(dayone, 13, topic)` `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",startweek,": ",advdate(dayone, 13, assignment=startweek))`
-    -   Finish portfolio pieces 7 and 8 by `r startweek`: `r advdate(dayone, 13, assignment=startweek)`
+    -   Finish portfolio pieces 7 and 8 by Monday 04/28
 -   [ ] `r advdate(dayone, 14, topic)`
-    -   Finish portfolio piece 9 by `r startweek`: `r advdate(dayone, 14, assignment=startweek)`
+    -   Finish portfolio piece 9 by Monday 04/28
 -   [ ] `r advdate(dayone, 15, topic)`
-    -   Finish portfolio piece 10 by `r startweek`: `r advdate(dayone, 15, assignment=startweek)`
+    -   Finish portfolio piece 10 by Monday 04/28
 -   [ ] Portfolio completion and end-of-semester presentation
-    -   Due on `r startweek`: `r advdate(dayone, 15, assignment=startweek)`
+    -   Due on 04/28
