@@ -1,6 +1,6 @@
 Grading Contract
 ================
-April 10 2025
+April 25 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -59,9 +59,9 @@ rearrange these labs and events to fit your needs.
   - Finish Lab 10 by Friday: 04/11
 - [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
   - Finish Lab 11 by Friday: 04/18
-  - Finish portfolio piece 5 by Friday: 04/25
+  - Finish portfolio piece 5 by Monday 04/28
 - [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
-  - Finish portfolio piece 6 by Friday: 04/25
+  - Finish portfolio piece 6 by Monday 04/28
 - [ ] Module 13, 04/07 - 04/11 : Quantifying uncertainty
   - Finish portfolio pieces 7 and 8 by Monday 04/28
 - [ ] Module 14, 04/14 - 04/18 : Rshiny
